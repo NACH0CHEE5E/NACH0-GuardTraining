@@ -1,0 +1,30 @@
+[
+  {
+    "name": "NACH0.GuardTraining",
+    "version": "1.0.0",
+    "namepretty": "NACH0's Guard Training",
+    "enabled": true,
+    "marksgamemodded": true,
+	"dllpath": "GuardTraining.dll",
+    "compatibleversions": [
+      "0.7.0"
+    ],
+    "jsonFiles": [
+      {
+        "relativePath": "gamedata/Locale/en-US/en-US.json",
+        "fileType": "addOrOverrideLocalization",
+        "index": 10000
+      }
+    ],
+    "patchnotes": [
+      {
+        "version": "1.0.0",
+        "notes": [
+          "Initial Release",
+          "*If you find any issues or have suggestions join the discord",
+          "*discord.gg/tqFhxhm"
+        ]
+      }
+    ]
+  }
+]
